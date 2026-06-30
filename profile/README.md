@@ -1,4 +1,4 @@
-# County Buildings
+# County Buildings & Resources
 
 | Name                    | Location                               |
 |-------------------------|----------------------------------------| 
