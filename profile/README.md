@@ -1,2 +1,5 @@
 # Winnebago County, IL
-Administration Building - 404 Elm Street Rockford, IL 61101
+
+|            Name            |                Location                 |
+|----------------------------|-----------------------------------------|
+|   Administration Building  |  404 Elm Street Rockford, IL 61101      |
